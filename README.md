@@ -1,7 +1,7 @@
-# Shop
+# Food
 
-## Portfolio React App - [Demo](https://mve-react-shop-red.vercel.app/)
+## Portfolio React App - [Demo](https://mve-react-food.vercel.app/)
 
-### App Shop with items list and basket, using React + Vite
+### App Food with routing, using React + Vite
 
-![Shop](screenshot/shop.png 'Shop')
+![Food](screenshot/food.png 'Food')
